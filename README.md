@@ -2,7 +2,7 @@
 Can you explain the price of electricity? ChallengeData by MathA
 
 
-# Predicting 24h changes in Electricity futures for Germany and France. 
+# Predicting 24h changes in Electricity futures for Germany and France
 QRT's 2023 data challenge: https://challengedata.ens.fr/participants/challenges/97/
 
 # Challenge context
